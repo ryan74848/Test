@@ -1,0 +1,32 @@
+
+#myId {
+    color: turquoise;
+    background-color: black;      
+}
+.myClass {
+
+}
+body {
+    color:grey; 
+    background-color: yellow;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
+    
+}
+img {
+    border: 10px ridge rgb(143, 143, 143);
+}   
+h1 {
+    font-size: xxx-large;
+    text-align: center;
+}
+
+button {
+    height: 50px;
+    background-color: blue;
+    color: white;
+    border: none;
+    font-size: medium;
+    border-radius: 10px;
+
+}
